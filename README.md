@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hola!
+Me llamo Cchiara, soy estudiante en ITESM y estudio INT.
